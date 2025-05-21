@@ -150,7 +150,10 @@ A lightweight web‐based dashboard that reads temperature and humidity values f
 
 ## Example Screenshots
 
-![Dark Theme Example](images/Page_Dark.png) ![Light Theme Example](images/Page_Light.png)
+<p align="center">
+  <img src="images/Page_Dark.png" alt="Dark Theme Example" width="45%" />
+  <img src="images/Page_Light.png" alt="Light Theme Example" width="45%" />
+</p>
 
 > You can customize the HTML/CSS inside the `handleRoot()` function to change appearance or add new features.
 
