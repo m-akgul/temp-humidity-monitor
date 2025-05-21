@@ -163,4 +163,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Enjoy monitoring your environment with your ESP32 & DHT11!***
+**Enjoy monitoring your environment with your ESP32 & DHT11!**
